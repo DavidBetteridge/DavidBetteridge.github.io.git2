@@ -2,6 +2,8 @@
 layout: post
 title: Restoring MSDB 
 published: true
+tags: [ARCHIVE, SQL]
+description: Pitfuls of restoring a MSDB database
 ---
 
 
